@@ -1,3 +1,7 @@
 class Breakfast {
   
+  constructor( ){
+    
+  }
+  
 }
